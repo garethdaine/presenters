@@ -1,3 +1,3 @@
 ## Presenters
 
-My presenter classes for decorating objects and collections in my Laravel applications.
+Presenter classes for decorating collections in Laravel applications.
